@@ -1,0 +1,6 @@
+{
+  "name": "RoadSense AI",
+  "description": "Multi-Modal Geospatial Road-Risk Assessment System fusing OSM infrastructure, satellite segmentation, temporal change detection, ground vision defect detection, and explainable risk scoring.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
